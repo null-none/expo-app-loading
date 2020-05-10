@@ -1,0 +1,25 @@
+{
+    "name": "expo-app-loading",
+    "version": "0.0.1",
+    "main": "react-native-card-view.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/null-none/expo-app-loading.git"
+    },
+    "description": "Custtom expo loading",
+    "keywords": [
+      "expo",
+      "loading",
+      "app loading",
+      "type script"
+    ],
+    "author": "Dmitry Kalinin",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/null-none/expo-app-loading/issues"
+    },
+    "homepage": "https://github.com/null-none/expo-app-loading",
+    "peerDependencies": {
+      "expo": ">=37.0.9"
+    }
+  }
